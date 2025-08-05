@@ -1,4 +1,4 @@
-**“A Hybrid AI Methodology for Generating Ontologies of Research Topics from Scientific Paper Corpora”**  
+**A Hybrid AI Methodology for Generating Ontologies of Research Topics from Scientific Paper Corpora**  
 by *Alessia Pisu, Livio Pompianu, Francesco Osborne, Diego Reforgiato Recupero, Daniele Riboni, Angelo Salatino*
 
 ## Abstract
